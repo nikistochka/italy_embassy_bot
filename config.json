@@ -1,0 +1,12 @@
+{
+    "prenotami_info": {
+        "booking_screen_url": "https://prenotami.esteri.it/Services/Booking/1250",
+        "user": "user@email.com",
+        "password": "password"
+    },
+    "telegram": {
+        "token": "telegram:token",
+        "chat_id": -1
+    },
+    "timeout": 120
+}
